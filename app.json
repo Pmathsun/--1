@@ -1,0 +1,49 @@
+{
+  "pages": [
+    
+   "pages/first page/first page",
+    "pages/second page/second page",
+    "pages/third page/third page",
+    "pages/forth page/forth page",
+    "pages/index/index",
+    "pages/userConsole/userConsole",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib"
+  ],
+ 
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "今日干啥",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light"
+  },
+
+
+
+
+"tabBar": {
+  "list": 
+  [
+    {
+      "pagePath": "pages/first page/first page",
+      "text": "今日"
+    },
+    {
+      "pagePath": "pages/second page/second page",
+      "text": "通知"
+    },
+    {
+      "pagePath": "pages/third page/third page",
+      "text": "日程表"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "我的"
+    }
+  ]
+}
+}
