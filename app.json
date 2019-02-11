@@ -2,16 +2,16 @@
   "pages": [
     
    "pages/first page/first page",
-    "pages/second page/second page",
-    "pages/third page/third page",
-    "pages/forth page/forth page",
-    "pages/index/index",
-    "pages/userConsole/userConsole",
-    "pages/storageConsole/storageConsole",
-    "pages/databaseGuide/databaseGuide",
-    "pages/addFunction/addFunction",
-    "pages/deployFunctions/deployFunctions",
-    "pages/chooseLib/chooseLib"
+  "pages/second page/second page",
+  "pages/third page/third page",
+  "pages/guanliqunzu/guanliqunzu",
+  "pages/index/index",
+  "pages/userConsole/userConsole",
+  "pages/storageConsole/storageConsole",
+  "pages/databaseGuide/databaseGuide",
+  "pages/lianxikefu/lianxikefu",
+  "pages/deployFunctions/deployFunctions"
+ 
   ],
  
   "window": {

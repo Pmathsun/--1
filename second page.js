@@ -1,4 +1,4 @@
-// pages/databaseGuide/databaseGuide.js
+// pages/second page/second page.js
 Page({
 
   /**

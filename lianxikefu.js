@@ -1,4 +1,4 @@
-// pages/databaseGuide/databaseGuide.js
+// pages/addFunction/addFunction.js
 Page({
 
   /**
